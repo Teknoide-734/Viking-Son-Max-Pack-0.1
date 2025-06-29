@@ -135,3 +135,8 @@ Pas besoin de reconfigurer à chaque fois, ni de relire une doc obscure.
 > 📥 Clone. Bash. Crée. Remix. Libère ta hache sonore.
 
 > ✨ Viking Son Max Pack 0.1 — le pack que tu n’espérais plus, mais qui est là.
+
+---
+
+> Forge audio libre signée Teknoïde 734 — à utiliser sans modération… > … sauf sur Windows. > Parce que là-bas, tout est enregistré 😈⚔️🔥
+
