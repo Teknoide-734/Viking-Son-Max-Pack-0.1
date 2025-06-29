@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=🎛️ Sortie - Viking Séparateur
+Comment=Contient les pistes séparées
+Icon=/mnt/teknoide-hdd/Coffre_de_Odin/outils pour le son de fou a tester/Viking-Son-Max-Pack-0.1/ZX-Ressources/Images-des-icones/ICON-Viking-Separateur-Max-Sortie.png
+Exec=xdg-open ../../Viking-Separateur-Max-0.1/Viking-Separateur-Max-Sortie
+Type=Application
+Terminal=false

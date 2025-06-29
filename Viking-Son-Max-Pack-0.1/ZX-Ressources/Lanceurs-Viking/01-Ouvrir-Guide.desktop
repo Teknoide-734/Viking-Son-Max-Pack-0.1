@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=📘 Guide de lancement
+Comment=Lire le guide Viking
+Icon=/mnt/teknoide-hdd/Coffre_de_Odin/outils pour le son de fou a tester/Viking-Son-Max-Pack-0.1/ZX-Ressources/Images-des-icones/ICON-Guide-de-lancement-et-activation-Viking-Son-Max-Pack-0.1.png
+Exec=xdg-open ../../🎧-Guide-de-lancement-et-activation-Viking-Son-Max-Pack-0.1.md
+Type=Application
+Terminal=false
