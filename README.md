@@ -3,7 +3,7 @@
 
 # 🎧 Le THE Pack — Viking Son Max 0.1
 
-[![Librement forgé avec amour](https://img.shields.io/badge/Libre-Viking--Punk--Audio-red?style=flat-square&logo=gnu&logoColor=white)](https://github.com/teknoide734)
+[![Librement forgé avec amour](https://img.shields.io/badge/Libre-Viking--Punk--Audio-red?style=flat-square&logo=gnu&logoColor=white)]([https://github.com/teknoide734](https://github.com/Teknoide-734))
 
 Bienvenue, créatif audio, bidouilleur du son ou aventurier des fréquences.  
 Voici **le kit magique et brutalement utile** que tu attendais —  
