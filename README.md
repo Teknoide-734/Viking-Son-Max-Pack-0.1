@@ -9,6 +9,8 @@
 
 [![Librement forgé avec amour](https://img.shields.io/badge/Libre-Viking--Punk--Audio-red?style=flat-square&logo=gnu&logoColor=white)](https://github.com/Teknoide-734)
 
+> ⚠️ [Charte de Respect & Âme du Projet](LICENSE-ET-RESPECT.md) :  
+> Le code est libre. Le style est sacré. Forke avec soin, pas comme un bourrin.
 
 Bienvenue, créatif audio, bidouilleur du son ou aventurier des fréquences.  
 Voici **le kit magique et brutalement utile** que tu attendais —  
