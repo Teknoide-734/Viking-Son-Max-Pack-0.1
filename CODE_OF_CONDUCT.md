@@ -1,3 +1,10 @@
+> 🪓 **Bienvenue dans la Forge Viking-Son**  
+> Ce projet n’est pas un simple dépôt de script : c’est une tribu.  
+> On y forge du code, du son et du sens — avec respect, entraide et humeur de baston bienveillante.  
+> Voici nos règles. Légères, mais solides comme un marteau runique.
+
+---
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
@@ -126,3 +133,17 @@ enforcement ladder](https://github.com/mozilla/diversity).
 For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
+
+---
+
+> 🧠 Ce code de conduite est complété par la [charte de respect créatif Viking](LICENSE-ET-RESPECT-À%20LIRE%20AVANT%20DE%20FORKER.md)  
+> _Forke le code. Pas le style._
+
+---
+
+> Forge audio libre signée Teknoïde 734 — à utiliser sans modération… > … sauf sur Windows. > Parce que là-bas, tout est enregistré 😈⚔️🔥
+
+---
+
+_Respectueusement, mais à la hache pas mollement,_  
+**— Teknoïde 734, maître du terminal et des vibes**
