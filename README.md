@@ -1,6 +1,10 @@
 # Viking-Son-Max-Pack-0.1
 "LE THE" Outils 2 en 1 : Éxtraction de bande son de tous formats de fichiers vidéos et Séparateur de piste audio en vocal et non vocal le tout en WAVE HD !!!
 
+<p align="center">
+  <img src="BANNIÈRE-VIKING-PACK.png" alt="Viking Son Max Banner" width="100%">
+</p>
+
 # 🎧 Le THE Pack — Viking Son Max 0.1
 
 [![Librement forgé avec amour](https://img.shields.io/badge/Libre-Viking--Punk--Audio-red?style=flat-square&logo=gnu&logoColor=white)](https://github.com/Teknoide-734)
