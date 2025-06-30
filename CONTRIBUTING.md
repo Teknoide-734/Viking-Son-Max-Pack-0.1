@@ -59,4 +59,4 @@ Si ton style est propre, tes idées solides et ton ton sincère :
 
 ---
 
-# Forge audio libre signée Teknoïde 734 — à utiliser sans modération… > … sauf sur Windows. > Parce que là-bas, tout est enregistré 😈⚔️🔥
+Forge audio libre signée Teknoïde 734 — à utiliser sans modération… … sauf sur Windows. Parce que là-bas, tout est enregistré 😈⚔️🔥
