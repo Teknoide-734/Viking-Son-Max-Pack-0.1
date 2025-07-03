@@ -1,6 +1,15 @@
 # Viking-Son-Max-Pack-0.1
 "LE THE" Outils 2 en 1 : Éxtraction de bande son de tous formats de fichiers vidéos et Séparateur de piste audio en vocal et non vocal le tout en WAVE HD !!!
 
+---
+Le pack : Viking-Son-Max-Pack-0.1 pour Linux et addaptable sur Mac :
+-> Viking-Son-Max-Pack-0.1.tar.gz
+-> Viking-Son-Max-Pack-0.1.zip
+Le pack : Viking-Son-Max-Pack-0.1 pour windonx
+-> Version-windows-Viking-Son-Max-Pack-0.1 (2).zip
+
+---
+
 <p align="center">
   <img src="BANNIÈRE-VIKING-PACK.png" alt="Viking Son Max Banner" width="100%">
 </p>
