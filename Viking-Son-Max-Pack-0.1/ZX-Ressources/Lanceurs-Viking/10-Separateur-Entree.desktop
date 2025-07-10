@@ -1,7 +1,0 @@
-[Desktop Entry]
-Name=🎤 Entrée - Viking Séparateur
-Comment=Dossier pour glisser les WAV à séparer
-Icon=/mnt/teknoide-hdd/Coffre_de_Odin/outils pour le son de fou a tester/Viking-Son-Max-Pack-0.1/ZX-Ressources/Images-des-icones/ICON-Viking-Separateur-Max-Entree.png
-Exec=xdg-open ../../Viking-Separateur-Max-0.1/Viking-Separateur-Max-Entree
-Type=Application
-Terminal=false

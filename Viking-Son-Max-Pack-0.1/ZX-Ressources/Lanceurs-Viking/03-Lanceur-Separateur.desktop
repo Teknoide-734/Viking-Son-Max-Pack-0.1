@@ -1,7 +1,0 @@
-[Desktop Entry]
-Name=⚔️ Lancer Viking Séparateur
-Comment=Ouvre le lanceur du module Séparateur
-Icon=/mnt/teknoide-hdd/Coffre_de_Odin/outils pour le son de fou a tester/Viking-Son-Max-Pack-0.1/ZX-Ressources/Images-des-icones/ICON-Lanceur-Viking-Separateur-Max.png
-Exec=xdg-open ../../Viking-Separateur-Max-0.1/⚔️ Lanceur-Viking-Separateur-Max.sh
-Type=Application
-Terminal=true

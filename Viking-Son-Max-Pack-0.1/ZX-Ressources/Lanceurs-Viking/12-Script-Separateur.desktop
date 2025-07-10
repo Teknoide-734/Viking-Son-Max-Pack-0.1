@@ -1,7 +1,0 @@
-[Desktop Entry]
-Name=⚙️ Script brut - Séparateur
-Comment=Script principal du moteur Séparateur
-Icon=/mnt/teknoide-hdd/Coffre_de_Odin/outils pour le son de fou a tester/Viking-Son-Max-Pack-0.1/ZX-Ressources/Images-des-icones/ICON-Viking-Separateur-Max-sh.png
-Exec=xdg-open ../../Viking-Separateur-Max-0.1/ZX-Viking-Separateur-Max-0.1-Script/Viking-Separateur-Max-0.1.sh
-Type=Application
-Terminal=true

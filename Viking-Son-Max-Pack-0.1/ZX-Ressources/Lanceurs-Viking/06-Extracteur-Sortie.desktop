@@ -1,7 +1,0 @@
-[Desktop Entry]
-Name=🎼 Sortie - Viking Extracteur
-Comment=Contient les fichiers audio extraits
-Icon=/mnt/teknoide-hdd/Coffre_de_Odin/outils pour le son de fou a tester/Viking-Son-Max-Pack-0.1/ZX-Ressources/Images-des-icones/ICON-Viking-Extracteur-Sortie.png
-Exec=xdg-open ../../Viking-Extracteur-Max-0.1/Viking-Extracteur-Max-Sortie
-Type=Application
-Terminal=false
