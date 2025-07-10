@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=🎵 Entrée - Viking Extracteur
+Comment=Dossier pour glisser vos vidéos à extraire
+Icon=/mnt/teknoide-hdd/Coffre_de_Odin/outils pour le son de fou a tester/Viking-Son-Max-Pack-0.1/ZX-Ressources/Images-des-icones/ICON-Viking-Extracteur-Max-Entree.png
+Exec=xdg-open ../../Viking-Extracteur-Max-0.1/Viking-Extracteur-Max-Entree
+Type=Application
+Terminal=false
+

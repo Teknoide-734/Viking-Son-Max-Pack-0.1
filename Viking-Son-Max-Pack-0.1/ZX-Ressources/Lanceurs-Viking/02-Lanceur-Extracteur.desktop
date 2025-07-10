@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=🛠️ Lancer Viking Extracteur
+Comment=Ouvre le lanceur du module Extracteur
+Icon=/mnt/teknoide-hdd/Coffre_de_Odin/outils pour le son de fou a tester/Viking-Son-Max-Pack-0.1/ZX-Ressources/Images-des-icones/ICON-Lanceur-Viking-Extracteur-Max.png
+Exec=xdg-open ../../Viking-Extracteur-Max-0.1/🛠️ Lanceur-Viking-Extracteur-Max.sh
+Type=Application
+Terminal=true

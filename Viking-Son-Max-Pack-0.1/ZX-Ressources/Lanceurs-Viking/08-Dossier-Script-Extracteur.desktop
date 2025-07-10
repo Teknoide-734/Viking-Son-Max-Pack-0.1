@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=📁 Dossier script - Extracteur
+Comment=Contient le script pur du moteur Extracteur
+Icon=/mnt/teknoide-hdd/Coffre_de_Odin/outils pour le son de fou a tester/Viking-Son-Max-Pack-0.1/ZX-Ressources/Images-des-icones/ICON-Viking-Extracteur-Max-0.1.png
+Exec=xdg-open ../../Viking-Extracteur-Max-0.1/ZX-Viking-Extracteur-Max-0.1
+Type=Application
+Terminal=false
